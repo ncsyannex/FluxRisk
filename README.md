@@ -22,7 +22,6 @@ Secondly, a new form of "real yield" will be introduced through premiums paid by
 
 Thirdly, a decentralized autonomous organization (DAO) will be created to support a consulting-like organization of risk modellers, actuaries, and data scientists. The community will vote on the most critical risks, and the best risk modeller will receive a percentage of the risk pool, as written into the smart contract. This approach will ensure that risk modeling is more targeted and informed by the community's needs.
 
-Rocket
 
 Lastly, temporal and locked liquidity pools that vary based on risk level will be developed. This approach will enable users to make more informed decisions on the risks associated with particular investments, providing greater transparency and accountability.
 
@@ -59,7 +58,7 @@ Develop and test the liquidity pools based on "frequency and severity" calculati
 
 Integrate the different components of the project and test the overall system for functionality and reliability.
 
-Rocket
+
 
 Phase 3: Launch and Deployment (6 months)
 
